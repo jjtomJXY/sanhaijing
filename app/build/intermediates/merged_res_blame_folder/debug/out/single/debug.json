@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg2.png.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg2.png"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_item_banner.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/item_banner.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_search.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_paint_clear.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_paint_clear.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_view.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_view.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/raw_phoenix_explanation.mp3.flat",
+        "source": "com.example.sanhaijing.app-main-33:/raw/phoenix_explanation.mp3"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg3.jpg.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg3.jpg"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_login.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg_search.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_audio_pause.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_audio_pause.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_empty_favorites.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_empty_favorites.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_story_list.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_story_list.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_history.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_progress.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_progress.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_edit.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_feedback_list.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_feedback_list.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg_mine.png.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg_mine.png"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_knowledge.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_knowledge.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_category_background.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/category_background.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_home.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_home_bg.jpeg.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/home_bg.jpeg"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_progress.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_progress.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_item_list_story.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/item_list_story.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_reminder.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_reminder.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_shape_fun.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/shape_fun.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_games.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_games.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_fragment_story.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/fragment_story.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_register.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_feedback.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_item_favorite.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/item_favorite.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg_function.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg_function.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_default_avatar.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/default_avatar.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_item_category.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_feedback.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_feedback.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_story_list.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_story_list.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_favorite_filled.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_favorite_filled.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_drawing.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_drawing.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg_rank_normal.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg_rank_normal.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_audio_play.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_audio_play.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_knowledge_detail.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_knowledge_detail.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg_rank_first.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg_rank_first.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_item_visit_ranking.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/item_visit_ranking.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_favorite.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_empty_history.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_empty_history.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_person.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_item_story.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/item_story.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_fragment_home.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_dialog_story_preview.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/dialog_story_preview.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_fragment_profile.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_item_feedback.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/item_feedback.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_item_search_story.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/item_search_story.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_dialog_reminder.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/dialog_reminder.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg_status.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg_status.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg_rank_third.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg_rank_third.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_drawing.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_drawing.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg1.jpg.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg1.jpg"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg_rank_second.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg_rank_second.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_img.png.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_clear.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_clear.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_favorites.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_favorites.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_item_history.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_book.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_book.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_back.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_today.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_today.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_story_detail.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_story_detail.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_bg_profile.png.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/bg_profile.png"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_share.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sanhaijing.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_fragment_game.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_undo.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_undo.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/layout_activity_search.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_close.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_button_background.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.example.sanhaijing.app-merged_res-31:/drawable_ic_history.xml.flat",
+        "source": "com.example.sanhaijing.app-main-33:/drawable/ic_history.xml"
+    }
+]

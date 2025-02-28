@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M60,60m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0"/>
+
+    <!-- Clock Circle -->
+    <path
+        android:fillColor="#DDDDDD"
+        android:pathData="M60,60m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0"/>
+
+    <!-- Clock Center -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M60,60m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"/>
+
+    <!-- Hour Hand -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M60,60l-15,-25"/>
+
+    <!-- Minute Hand -->
+    <path
+        android:strokeColor="#F5F5F5"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M60,60l25,0"/>
+
+    <!-- Clock Markers -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M60,28l2,6l-4,0l2,-6"/>
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M60,86l2,6l-4,0l2,-6"/>
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M28,60l6,2l0,-4l-6,2"/>
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M86,60l6,2l0,-4l-6,2"/>
+
+    <!-- Circular Progress Dots -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M85,35m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"/>
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M35,35m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"/>
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M35,85m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"/>
+</vector>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#44AAFF</color>
+    <color name="colorPrimary">#4b9249</color>
+    <color name="colorPrimaryLight">#FF03DAC5</color>
+    <color name="favorite_active">#FF4081</color>
+    <color name="favorite_inactive">#888a72</color>
+    <color name="green">#4b9249</color>
+    <color name="orange">#FF8844</color>
+    <color name="pending">#FF9800</color>
+    <color name="processed">#4CAF50</color>
+    <color name="purple">#9944FF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#4b9249</color>
+    <color name="purple_700">#4b9249</color>
+    <color name="red">#FF4444</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFDD44</color>
+    <dimen name="color_button_size">40dp</dimen>
+    <dimen name="viewpager_current_item_horizontal_margin">6dp</dimen>
+    <dimen name="viewpager_next_item_visible">10dp</dimen>
+    <string name="app_name">sanhaijing</string>
+    <style name="FunctionAreaStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="marginHorizontal">8dp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:background">@drawable/shape_fun</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+    <style name="FunctionIconStyle">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:tint">@color/green</item>
+    </style>
+    <style name="FunctionTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/green</item>
+    </style>
+    <style name="NumberPickerStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColorPrimary">#333333</item>
+    </style>
+    <style name="Theme.Sanhaijing" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="WhiteCheckBox">
+        <item name="colorControlNormal">#FFFFFF</item>
+        <item name="colorControlActivated">#FFFFFF</item>
+    </style>
+</resources>

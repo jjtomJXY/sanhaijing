@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="首页"/>
+    <item
+        android:id="@+id/navigation_story"
+        android:icon="@drawable/ic_book"
+        android:title="故事"/>
+    <item
+        android:id="@+id/navigation_game"
+        android:icon="@drawable/ic_games"
+        android:title="游戏"/>
+    <item
+        android:id="@+id/navigation_me"
+        android:icon="@drawable/ic_person"
+        android:title="我的"/>
+</menu>

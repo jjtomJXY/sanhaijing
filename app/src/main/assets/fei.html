@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
+    <link rel="icon" href="imags/tao.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/fei.css">
+    <style>
+        @font-face {
+            font-family: 'SONG';
+            src: url('font-style/AaHeiSong.ttf');
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>山海经</title>
+</head>
+<script src="js/fei.js"></script>
+<script type="text/javascript" src="js/PerfectLoad.js"></script>
+<script>
+    $(function () {
+        $.MyCommon.PageLoading({ sleep: 500 });
+    })
+</script>
+
+<body>
+    <div id="container">
+        <!-- 右上角音乐及图标 -->
+		<div class="u-audio">
+			<audio src="music/bmxh.mp3" autoplay="autoplay" id="music" preload="auto" loop="loop"></audio>
+			<div id="page1">
+				<img id="rallback" src="music/img/m.png" style="width: 60px;height: 60px;"></img>
+			</div>
+		</div>
+        <script type="text/javascript" src="js/music.js"></script>
+        <!--人物音乐及图标-->
+		<div class="u-audio2">
+			<audio src="music/saying/fei1.mp3" id="music2" autoplay="autoplay" preload="auto"></audio>
+			<div id="page2">
+				<img id="rallback2" src="music/img/l.png"></img>
+			</div>
+		</div>
+
+        <div class="container1">
+            <p>你好呀！</p>
+            <p>我的名字叫<span>蜚</span></p>
+            <p>我的名字有两个读音</p>
+            <p>你知道是哪两个吗？</p>
+            <p>点击就可以选择答案哦</p>
+        </div>
+        <div class="container2">
+            <div><img src="imags/fei.svg" alt=""></div>
+        </div>
+        <div class="container3">
+            <div id="fei1"><img src="imags/font/a1.png" alt=""></div>
+            <div id="fei2"><img src="imags/font/a2.png" alt=""></div>
+            <div id="fei3"><img src="imags/font/a3.png" alt=""></div>
+        </div>
+        <div id="correct"><img src="./imags/button/true.png" alt=""></div>
+        <div id="wrong"><img src="./imags/button/false.png" alt=""></div>
+        <a href="select.html" class="back"><img src="./imags/button/back.png" alt="">
+        <a href="fei2.html" class="go"><img src="./imags/button/go.png" alt="">
+    </div>
+</body>
+
+</html>
