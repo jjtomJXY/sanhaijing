@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId "com.example.sanhaijing"
         minSdk 28
-        targetSdk 34
+        targetSdk 32
         versionCode 1
         versionName "1.0"
 
@@ -40,4 +40,10 @@ dependencies {
     implementation 'androidx.cardview:cardview:1.0.0'
     implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
     implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    def room_version = "2.6.1"
+
+    implementation "androidx.room:room-runtime:$room_version"
+    annotationProcessor "androidx.room:room-compiler:$room_version"
+    implementation "androidx.room:room-ktx:$room_version" // 可选 - Kotlin扩展
 }
