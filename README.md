@@ -2,3 +2,4 @@ Android相关的山海益智阅读APP
 涉及了recycleView，handler，jetpack组件
 正在往kotlin+jetpack以及MVVM框架上面转型
 并且不断优化性能方面
+采用了Glide的缓存机制来处理图片
