@@ -1,5 +1,4 @@
 package org.gradle.accessors.dm;
-
 import org.gradle.api.NonNullApi;
 import org.gradle.api.artifacts.MinimalExternalModuleDependency;
 import org.gradle.plugin.use.PluginDependency;
